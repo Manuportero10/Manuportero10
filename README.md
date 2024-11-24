@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Manuel Cano García 👋
 
-<!--
-**Manuportero10/Manuportero10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer sciencer student, willing to demostrate what I am capable of in the tech industry.
 
-Here are some ideas to get you started:
+I am an enthusiastic of AI solutions and I would like to work in that field in the future, it does not matter what it would cost. Also, I like learning interesting things to include in my skills so I am not reluctant to new technologies. In fact, I think that I prefer to keep learning and improving rather than just doing the same over and over.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch 📱
+
+<p align="center">
+<a href="https://www.linkedin.com/in/manuel-cano-garcía/" target="blank"><img align="center" src="https://img.shields.io/badge/Manuel Cano García-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:manuportero10@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/manuportero10@gmial.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Manuportero10" target="blank"><img align="center" src="https://img.shields.io/badge/Manuportero10-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+## My Tech Stack 💻
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,haskell,docker,fastapi,mysql,postgres,vscode,sklearn&theme=dark)](https://skillicons.dev)
+
+I would like to learn about: [![My Skills](https://skillicons.dev/icons?i=tensorflow,react,pytorch,opencv,kubernetes,&theme=dark)](https://skillicons.dev)
+
+<Br>
+<hr>
+<Br>
+<h1>Some of my Projects! 🎨</h1>
+<Br>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manuportero10&repo=Project-PVGC&show_owner=true)](https://github.com/Manuportero10/Project-PVGC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Manuportero10&repo=lab_ssdd&show_owner=true)](https://github.com/Manuportero10/lab_ssdd)
+
+## My Stats 📊
+![Manuportero10's Stats](https://github-readme-stats.vercel.app/api?username=Manuportero10&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Manuportero10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manuportero10&theme=vue-dark&hide_border=true)
+![Manuportero10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuportero10&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
