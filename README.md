@@ -4,6 +4,8 @@ I am a computer sciencer student, willing to demostrate what I am capable of in 
 
 I am an enthusiastic of AI solutions and I would like to work in that field in the future, it does not matter what it would cost. Also, I like learning interesting things to include in my skills so I am not reluctant to new technologies. In fact, I think that I prefer to keep learning and improving rather than just doing the same over and over.
 
+I consider myself as a persistent person who is not afraid of face challenges and failing, because these experiences help us to be better profesional, maybe this time you make a mistake or give up a project, but learning from the mistakes:  **What will you become tomorrow?**
+
 ## Get in Touch 📱
 
 <p align="center">
